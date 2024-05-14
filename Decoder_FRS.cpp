@@ -1,6 +1,5 @@
 #include <string>
 #include <algorithm>
-#include <windows.h>
 #include "Tools/Exception/exception.hpp"
 #include "Decoder_FRS.hpp"
 
