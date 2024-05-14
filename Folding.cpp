@@ -1,5 +1,4 @@
 #include <cstdlib>
-#include <thimble/all.h>
 
 #include <iostream>
 #include <memory>
